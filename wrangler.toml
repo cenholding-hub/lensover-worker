@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "lensover-spots"
-database_id = "REPLACE_WITH_YOUR_D1_ID"
+database_id = "c29162b3-4c24-4b83-9c2a-8f3436d16628"
 
 [triggers]
 crons = ["0 */6 * * *"]
